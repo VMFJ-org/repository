@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "name": "local",
+  "files": {
+    "oracle": "apps/oracle/index.json"
+  }
+}
